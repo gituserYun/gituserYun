@@ -10,12 +10,17 @@
 
 <strong>🦾Basic knowledge:</strong>
 <div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+</div>
+<div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=black"> 
   <img src="https://img.shields.io/badge/CSS-F43059?style=flat&logo=CSS Wizardry&logoColor=black">
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
 </div>
 <div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/HTML-6DB33F?style=flat&logo=springboot&logoColor=black"> 
+  <img src="https://img.shields.io/badge/JSP-FF7800?style=flat&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=black">
 </div>
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat&logo=MariaDB&logoColor=black">
