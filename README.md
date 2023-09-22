@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
 </div>
 <div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/HTML-6DB33F?style=flat&logo=springboot&logoColor=black"> 
+</div>
+<div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat&logo=MariaDB&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black"> 
 </div>
@@ -52,8 +55,7 @@ Click Here:<br>
 
 
 
-
-
+<!-- https://simpleicons.org/ -->
 <!-- <img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/>-->
 
 <!--
