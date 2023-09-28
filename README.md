@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/VMware-FCC624?style=flat&logo=VMware&logoColor=black">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=black">
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Intellij-ED1C24?style=flat&logo=intellijidea&logoColor=black">
 </div>
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Kali-557C94?style=flat&logo=kalilinux&logoColor=black">
